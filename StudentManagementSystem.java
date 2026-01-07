@@ -37,7 +37,7 @@ public class StudentManagementSystem {
     }
 
     private static void addStudent() {
-        sc.nextLine(); // consume newline
+        sc.nextLine(); 
         System.out.print("Enter name: ");
         String name = sc.nextLine();
         System.out.print("Enter marks: ");
@@ -102,3 +102,4 @@ public class StudentManagementSystem {
         System.out.println("Student not found");
     }
 }
+
