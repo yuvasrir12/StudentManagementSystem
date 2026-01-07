@@ -31,8 +31,8 @@ The application supports CRUD operations (Create, Read, Update, Delete) on stude
 ## 📂 Project Structure
 
 StudentManagementSystem
-├── Student.java
-└── StudentManagementSystem.java
+── Student.java
+- └── StudentManagementSystem.java
 
 ## 🧠 Learning Outcomes
 
